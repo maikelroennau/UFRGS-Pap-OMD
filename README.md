@@ -16,7 +16,7 @@ Maikel M. Rönnau, Tatiana W. Lepper, Igor C. Guedes, Pantelis V. Rados, Manuel 
 
 ```
 @misc{roennauUFRGSPapOMD,
-  author       = {Rönnau, Maikel. M. and Lepper, Tatiana W. and Guedes, Igor C. and Rados, Pantelis V. and Oliveira, Manuel. M.},
+  author       = {Rönnau, Maikel. M. and Lepper, Tatiana W. and Guedes, Igor C. and Espinosa, Ana L. F. and Rados, Pantelis V. and Oliveira, Manuel. M.},
   title        = {{(UFRGS Pap-OMD)}},
   year         = {2024},
   publisher    = {GitHub},
