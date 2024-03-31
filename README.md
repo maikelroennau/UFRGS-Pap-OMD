@@ -10,7 +10,7 @@ Automatic Segmentation and Classification of Papanicolaou-stained Cells and Data
 
 ### Authors
 
-Maikel M. Rönnau, Tatiana W. Lepper, Igor C. Guedes, Pantelis V. Rados, Manuel M. Oliveira
+Maikel M. Rönnau, Tatiana W. Lepper, Igor C. Guedes, Ana L. F. Espinosa, Pantelis V. Rados, Manuel M. Oliveira
 
 ### Cite
 
