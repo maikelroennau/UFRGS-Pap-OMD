@@ -2,7 +2,7 @@
 
 A Papanicolaou-stained image dataset of epithelial cells from oral mucosa annotated by specialists.
 
-Download the dataset using this link: [https://ufrgscpd-my.sharepoint.com/:f:/g/personal/00330519_ufrgs_br/EhKTh2xFSbRDo0ERLxhXq8IBlotLqkWSL5YO5Kx6u7kSwQ?e=c8CIqf](https://ufrgscpd-my.sharepoint.com/:f:/g/personal/00330519_ufrgs_br/EhKTh2xFSbRDo0ERLxhXq8IBlotLqkWSL5YO5Kx6u7kSwQ?e=c8CIqf)
+Download the dataset using this link: [UFRGS-Pap-OMD Dataset](https://ulbraedu-my.sharepoint.com/:f:/g/personal/maikel_ronnau_ulbra_edu_br/Eu2whCTQJoRJoLPDerlq5L4BiFTY_fOEEjF5m3zwZCKUVA?e=d8crxU)
 
 ## Paper
 
